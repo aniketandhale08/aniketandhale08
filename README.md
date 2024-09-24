@@ -31,7 +31,10 @@
 [<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="entbappy | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
 [<img align="left" alt="entbappy | YouTube" width="30px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />][YouTube]
-[<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]         
+[<img align="left" alt="entbappy | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][LeetCode]     
+[<img align="left" alt="entbappy | LeetCode" width="30px" src="![apple-icon-precomposed](https://github.com/user-attachments/assets/6d9ff23d-4bfd-4c55-a913-facfb731f2ae)" />] 
+
+
 
 [linkedin]: https://www.linkedin.com/in/aniketandhale08/
 [twitter]: https://twitter.com/aniket_andhale_
