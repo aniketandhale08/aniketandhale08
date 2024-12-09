@@ -6,9 +6,10 @@
 * Python
 * SQL
 * MLOps
+* Data analysis
 * Cloud Computing
 
-<!--👉[My Online Portfolio](link)-->
+👉My Online Portfolio [link](https://aniketandhale.me/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -50,5 +51,3 @@
 [Instagram]: https://www.instagram.com/andy_08_01/
 [YouTube]: https://www.youtube.com/channel/UCepfJNeGYnTrmtN-HxFGexg
 [LeetCode]: https://leetcode.com/u/andy_08/
-[Portfolio]: https://aniketandhale.me/
-
