@@ -9,7 +9,7 @@
 * Data analysis
 * Cloud Computing
 
-👉My Online Portfolio [link](https://aniketandhale.me/)
+👉My Portfolio [link](https://aniketandhale.me/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
