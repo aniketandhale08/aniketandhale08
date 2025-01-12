@@ -8,6 +8,7 @@
 * MLOps
 * Data analysis
 * Cloud Computing
+* Data Engineering
 
 👉My Portfolio [link](https://aniketandhale.me/)
 
