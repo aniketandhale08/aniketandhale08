@@ -34,9 +34,9 @@ Currently focused on **data engineering** and **cloud infrastructure**, with han
 
 | Project | Stack | Description |
 |---|---|---|
-| [Credit Card Fraud Detection — GCP Data Engineering](https://github.com/aniketandhale08) | Python · BigQuery ML · Vertex AI · Dataflow · Looker | End-to-end fraud detection pipeline on 300k+ transactions; 97% precision, 30% faster fraud response with real-time email alerts |
-| [Recommendation System using Collaborative Filtering](https://github.com/aniketandhale08) | Python · KMeans · KNN · Docker · Azure App Services | Collaborative filtering on 270k+ ratings (RMSE 0.9); Streamlit UI containerized with Docker, deployed on Azure |
-| [Bank Loan Analysis — Power BI Report](https://github.com/aniketandhale08) | SQL Server · Power BI · DAX | 3-page BI report on 38k+ loan records with 20+ DAX measures covering portfolio health, credit risk & lending insights |
+| [Credit Card Fraud Detection — GCP Data Engineering](https://github.com/aniketandhale08/Credit-Card-Fraud-Detection-with-Data-Engineering-on-Google-Cloud) | Python · BigQuery ML · Vertex AI · Dataflow · Looker | End-to-end fraud detection pipeline on 300k+ transactions; 97% precision, 30% faster fraud response with real-time email alerts |
+| [Recommendation System using Collaborative Filtering](https://github.com/aniketandhale08/Book-recommendation-system-using-collaborative-filtering) | Python · KMeans · KNN · Docker · Azure App Services | Collaborative filtering on 270k+ ratings (RMSE 0.9); Streamlit UI containerized with Docker, deployed on Azure |
+| [Bank Loan Analysis — Power BI Report](https://github.com/aniketandhale08/Bank-Loan-Analysis-Power-BI-Report) | SQL Server · Power BI · DAX | 3-page BI report on 38k+ loan records with 20+ DAX measures covering portfolio health, credit risk & lending insights |
 
 ---
 
