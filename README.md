@@ -29,7 +29,7 @@ Currently focused on **data engineering** and **cloud infrastructure**, with han
 
 ---
 
-### 📂 A piece of work
+### 📂 Featured Projects
 
 
 | Project | Stack | Description |
