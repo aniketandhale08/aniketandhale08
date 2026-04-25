@@ -44,6 +44,6 @@ Currently focused on **data engineering** and **cloud infrastructure**, with han
 
 [<img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/aniketandhale08/)
 
-[<img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/andy_08_01/)
+[<img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/aniket.andhale_/)
 
 [<img align="left" alt="LeetCode" width="30px" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" />](https://leetcode.com/u/andy_08/)
