@@ -46,4 +46,4 @@ Currently focused on **data engineering** and **cloud infrastructure**, with han
 
 [<img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />](https://www.instagram.com/andy_08_01/)
 
-[<img align="left" alt="LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />](https://leetcode.com/u/andy_08/)
+[<img align="left" alt="LeetCode" width="30px" src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000" />](https://leetcode.com/u/andy_08/)
