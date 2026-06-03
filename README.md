@@ -1,4 +1,4 @@
-## 👋 Hi, I'm andy
+## Hi, I'm andy
 
 ### Data Engineer · Python · SQL · Cloud (GCP · Azure)
 
